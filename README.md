@@ -1,4 +1,4 @@
-# Data-Structure-With-Python
+# Data-Structure-and-algorithm-With-Python
 1 ---> Big-o
 
 2 ---> Simple_Queue
